@@ -1,0 +1,1 @@
+### This tool can be used to directly change the text from files to katakana and can be even customized to hiragana too.
